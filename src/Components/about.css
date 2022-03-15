@@ -1,0 +1,26 @@
+.emp-profile {
+  margin-top: 5%;
+  /* box-shadow: 5px 10px rgb(185, 183, 183); */
+}
+
+.profile-pic img {
+  height: 150px;
+  width: 150px;
+  border-radius: 50%;
+}
+
+.row-box {
+  padding: 3%;
+}
+
+.profile-work p {
+  color: rgb(88, 88, 88);
+}
+.profile-work a {
+  text-decoration: none;
+  color: darkgrey;
+  display: flex;
+  flex-direction: column;
+  margin-top: 8px;
+  margin-bottom: 8px;
+}
